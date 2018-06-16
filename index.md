@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Imaddinmmdepf/imaddinmmdepf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to 0x00000000 spaceUser page.
+You can think that this blog has the objective that you are not looking for but the trust is that wherever you read
+i will explain you how a bug works. This is not for malintentioal stuffs. Me as a student want to share my knowledge 
+and other things that we cannot share because of distance.
 
 ### Markdown
 
